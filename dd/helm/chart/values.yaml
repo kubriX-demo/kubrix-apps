@@ -1,0 +1,12 @@
+# dummy
+prod:
+  description: dd
+  os: fedora-cloud-base
+  disk: 10Gi
+  cores: 1
+  memory: 4Gi
+  initpwd: admin
+  application_id: dd
+  team: kubrix
+ # running: 
+  environment: prod

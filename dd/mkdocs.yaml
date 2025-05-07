@@ -1,0 +1,8 @@
+site_name: "dd"
+site_description: "Documentation for dd"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
